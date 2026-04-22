@@ -1,0 +1,13 @@
+{
+  "displayName": "Archive digests and newsletters",
+  "mode": "upsert",
+  "sequence": 1,
+  "isEnabled": true,
+  "conditions": {
+    "subjectContains": ["Digest", "Newsletter"]
+  },
+  "actions": {
+    "moveToFolder": "Digest",
+    "stopProcessingRules": true
+  }
+}
