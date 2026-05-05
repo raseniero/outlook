@@ -19,7 +19,7 @@ logs/
 node_modules/
 
 # Raw archived messages and sensitive documents
-raw/
+#raw/
 
 # Python
 __pycache__/
