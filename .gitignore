@@ -50,3 +50,6 @@ wheels/
 
 # OS-specific
 Thumbs.db
+
+# Obsidian
+.obsidian/

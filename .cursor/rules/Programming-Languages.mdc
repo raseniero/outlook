@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+When writing Rust, prioritize memory safety and avoid .unwrap(). For Python, use Type Hints (PEP 484). For TypeScript, ensure all interfaces are exported from a central types/ directory.
