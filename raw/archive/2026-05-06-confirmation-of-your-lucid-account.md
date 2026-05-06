@@ -1,0 +1,18 @@
+---
+from: Lucid <account@app.lucid.co>
+to: RAMON ASENIERO JR <ramon@jairosoft.com>
+date: 2026-05-06 10:21 -0700
+subject: "Confirmation of your Lucid account"
+priority: newsletter
+summary: "Lucid confirmed that a new account was created and linked a return-to-documents page for the workspace."
+message_id: "AAMkADdlNDc4NTNjLWViYTctNGQwNy1iZDI3LWE2OTM5ZTQzM2FkMQBGAAAAAABAQGAdloW6Rbz9sJHFj9QJBwAFWW0IFH2wTrxZpG1o4AGMAAFL0xAjAAAFWW0IFH2wTrxZpG1o4AGMAAUeaJzaAAA="
+unsubscribe_url: "https://url5041.app.lucid.co/ls/click?upn=u001.9CEiYqsCeDB7JcEaXQIz-2F9bXZ6UkG9n9rS5xrwEykyURmVCNTm0oNkKbH7nXU3lOOIRW_2PZKm3SjmAb3wA81fybx-2Bs-2Bw-2Fxa-2BJKcPqqEVixsYQ6U-2FqJzEvmjunmYh9zVQRX3oXpGgvOb5GUlYHOuizNGylbWWdXoEXCYLdkR76ep1gSNxyqjBdIVRbZkQlqZCuU8WWVWrmgLsdo72hZvsKSWRl4jxfY-2B3OpP-2B1Il9Aa4VdFPCe1DAVH0aTLd3m2qvQ2RHKMkrhiYmvnvcay6Mj5Iqqp9OlZDjZu29OSG15rZNLVBYrNMAYa7ZXOGyMXpNDkre-2FcnKix4aeepdUykIYWnOlP-2FQC9JUmQlkcXMGOIksKoGEB4Il77w2qaTZU-2B-2FNHHmVUqgWcNUPoDdQuTFtuxB7mmJKCu9nmOhL6mCFSOcuOQ-2BFckS0hDuQGnhy3imhSe8WihkF9gn7YHbBYqRjMSxwe7yIe43TJ0J8joXq2upEWwT7UxMWX8hPvd8lbKRZFiths0tNb0Qacn6Bza1Vj9ueKEikQgYMk4NlO5Ac92Iab2k8sUQjjs1eeDUv9AMERccdfxltqF-2BwS1A4DqdDFnnqdYkBHp8geIvmvphs273bjG7Eu2UYxc2In269oZ-2Bc2cs1MPqdFXd2spc3kX6TDUhaCFPjfB2izUPOpv0SF2C3IpyYMwqC4LbiVQyFYt7HgEprZTWDPFnf1TfRIDNILRjVUg0Uy4F85YELml9KUwrXifrHMuqfLsJEipH8ZN8NXoX5pv2fpA9SLySmtcPScjLQVgtfs-2BALdU2alaxHIMYtvbHT8rTkTjNRKLf3Fzgu1POzypNc8fdc0gyM-2B5VujqC-2FO9v0ndS2JISU7ZeTB05oK-2Fs-3D"
+---
+
+# Confirmation of your Lucid account
+
+Lucid confirmed that a new account was created for `ramon@jairosoft.com`.
+
+The email says the account can now access Lucid's workspace and template library, and includes a `Return to documents` link.
+
+The footer includes standard terms, privacy, and unsubscribe links.

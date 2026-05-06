@@ -20,12 +20,15 @@ Jairosoft LLC currently pays for **three productivity-suite subscriptions** that
 
 The duplication isn't a recent accident — both stacks have been live throughout the indexed window (2026-04-18 → 2026-04-25). The Aug 1, 2026 M365 renewal is the next natural decision point.
 
+As of **2026-05-06**, Microsoft is no longer passive in this decision: a post-consultation follow-up is actively steering Jairosoft toward a `Business Premium + Copilot` rollout via a recommended partner (`Emergent Software`). That raises the stakes on making the renewal decision deliberately instead of drifting into it.
+
 ## What the corpus tells us
 
 ### Microsoft 365 is the email backbone
 - Outlook NDR for the `test2` message (2026-04-25) came from `postmaster@jairosoft.com` with M365 Exchange Online error wording ("error reported by the recipient domain's email server", reference to "Office 365").
 - Two parallel tiers (Basic + Standard) both invoiced 4 minutes apart on 2026-04-25 02:17 / 02:21 UTC.
 - Both expire **2026-08-01** — they will auto-renew on the same day unless action is taken.
+- 2026-05-06: Microsoft followed up with a partner-led `Business Premium + Copilot` motion, which implies the vendor sees Jairosoft as a live upsell / migration target, not just a stable renewal account.
 
 ### Google Workspace was just expensively reorganized
 - Account had been in read-only since **2025-09-16** due to pooled-storage over-quota (208.35 GB / 122 docs).

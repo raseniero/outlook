@@ -2,22 +2,22 @@
 
 Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.md](../SCHEMA.md) for conventions.
 
-**Last updated:** 2026-05-05 (duplicate-corroboration and platform events ingested from 2026-04-26)
-**Page totals:** people=52 · orgs=32 · projects=18 · topics=0 · threads=0 · sources=133 · analyses=3
-**Backfill progress:** **160 / 177 raw inbox sources represented in wiki.** Baseline corpus `2026-04-18 → 2026-04-25` remains complete; substantive follow-up from `2026-04-26 → 2026-05-05` is still in progress.
+**Last updated:** 2026-05-06 (ingested Microsoft follow-up, Flawless 7.2 smoke-test completion, and richer ColinaHealth architecture details from the May 6 raw batch)
+**Page totals:** people=52 · orgs=33 · projects=19 · topics=0 · threads=0 · sources=141 · analyses=3
+**Backfill progress:** **168 / 201 raw mail files represented in wiki across `raw/inbox` + `raw/archive`.** Baseline corpus `2026-04-18 → 2026-04-25` remains complete; later Outlook-era follow-up is still being ingested selectively for signal.
 
 ---
 
 ## People
 
 ### Internal — Jairosoft (leadership / senior)
-- [[people/ramon-aseniero]] — Founder & CEO; **hub** (130)
+- [[people/ramon-aseniero]] — Founder & CEO; **hub** (143)
 - [[people/joe-nofo]] — Senior; Aloha Roadway JV v2 (5)
 - [[people/karl-caumban]] — **Agile Project Manager** (Karl Jordan P. Caumban) (10)
 
 ### Internal — Jairosoft (Support Team — Admin / Finance / HR)
 - [[people/mary-grace-garcia]] — Admin/Finance/HR (Grace) (9)
-- [[people/carol-cuison]] — Admin/Finance; Flawless co-owner (3)
+- [[people/carol-cuison]] — Admin/Finance; Flawless co-owner (4)
 - [[people/almera-tayao]] — HR (1)
 - [[people/maria-lina-cuestas]] — Support Team (stub, 1)
 - [[people/mark-colina]] — Support Team + facilities-procurement liaison (11)
@@ -32,7 +32,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - adam-bernaldez, jove-moralde, rommel-senillo, bon-cueva, bomar-sinday, aldred-donayre, jovanne-vicentino, calvin-john-dalino (QA, sick 04-20→21), daryl-estrada
 
 ### Internal — Jairosoft (AutoAllies-side team)
-- earl-carino, jerlyn-ates (Leadership Team + Ticket Dismisser reviewers), [[people/jayden-colina]] (multi-engagement), [[people/luzmibel-paculanang]] (stub)
+- earl-carino, jerlyn-ates (Leadership Team + Ticket Dismisser reviewers), [[people/jayden-colina]] (multi-engagement), [[people/luzmibel-paculanang]] (Flawless release + billing, 4)
 
 ### Internal — Jairosoft (other)
 - [[people/john-paul-catubig]] — Anthropic + Ticket Dismisser
@@ -67,11 +67,11 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 ## Orgs
 
 ### Internal
-- [[orgs/jairosoft]] — the company (LLC + INC entities) (124)
+- [[orgs/jairosoft]] — the company (LLC + INC entities) (132)
 
 ### Active clients
 - [[orgs/gohealth-uc]] — Voice AI eval + 9-person dev team (6)
-- [[orgs/flawless-hawaii-wedding-app]] — Iteration 7.3 planning signal now visible after 7.1 release (3)
+- [[orgs/flawless-hawaii-wedding-app]] — Iteration 7.2 has now cleared smoke testing; 7.3 planning pressure remains (6)
 - [[orgs/aloha-roadway-services]] — **JV v2** Final Dev Scope (3)
 - [[orgs/auto-allies]] — 3 active workstreams; **$18,332 A/R** (4)
 - [[orgs/nurture-collective]] — AWS RDS + translation (2)
@@ -88,8 +88,9 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [[orgs/google-cloud]] — Cloud Next '26 + GEAR (5)
 - [[orgs/duet-display]], [[orgs/scaled-agile]], [[orgs/moodle]], [[orgs/vercel]] (breach), [[orgs/pldt]]
 - [[orgs/wispr-flow]] — voice-input AI productivity tool; Ramon active user (1)
-- [[orgs/microsoft-365]] — **email backbone for jairosoft.com**; OneDrive deletion warning now also in-corpus (4)
+- [[orgs/microsoft-365]] — **email backbone for jairosoft.com**; OneDrive deletion warning plus Microsoft's Business Premium + Copilot push now in-corpus (5)
 - [[orgs/general-dynamics]] — supplier-registration relationship requiring annual refresh (1)
+- [[orgs/hawaii-apex-accelerator]] — recurring MyBidMatch procurement feed source (1)
 
 ### Counterparties / govt / cold-source
 - [[orgs/pnbrci]] — Jairosoft OpEx (2)
@@ -99,7 +100,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 ## Projects
 
 - [[projects/google-workspace-migration-2026]] — **active** — **Takeout download due 2026-05-02** (22)
-- [[projects/flawless-hawaii-wedding-app]] — **active** — 7.3 planning, mobile blockers, RevenueCat delay (4)
+- [[projects/flawless-hawaii-wedding-app]] — **active** — Iteration 7.2 passed smoke test; 7.3 planning and blockers still active (7)
 - [[projects/gohealth-voice-ai-initiative]] — **active** (1)
 - [[projects/gohealth-jairosoft-engineering-engagement]] — **active** — Adam role-scope now explicitly lead/integration-heavy; Apr 29 review flagged process-health strain (5)
 - [[projects/final-dev-scope-aloha-roadway]] — **active** — **JV v2 Friday 2026-04-24** (5)
@@ -114,6 +115,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [[projects/shannon-nofo-app-development]] — **superseded**
 - [[projects/jairosoft-solar-facility-evaluation-2026]] — **active** — Goldenboy Water Systems identified as current solar vendor; eval pending (6)
 - [[projects/jairosoft-facility-hvac-evaluation-2026]] — **active** — AIRPRO quotation received after site inspection (1)
+- [[projects/colinahealth-architecture]] — **active** — AWS/network, deployment, and SSM/security follow-up now visible (2)
 
 ## Topics / Threads / Analyses
 
@@ -178,9 +180,11 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [ ] **Ramon:** complete Week 2 AWS Skill Builder coursework.
 - [ ] **Ramon:** allocate time to use GEAR's 35 monthly credits.
 - [ ] **Ramon:** verify whether the OneDrive mass-deletion event was intentional and restore anything needed.
+- [ ] **Ramon:** review the eight MyBidMatch opportunities from Hawaii APEX Accelerator.
 - [ ] **Ramon:** verify PLDT PHP 59,626.90 "previous charges" is re-billed (not missed payment).
 - [ ] **Ramon (with Grace + Marikriss):** evaluate the 5 Mark Colina solar proposals; identify vendor; solicit competitive bid. → [[projects/jairosoft-solar-facility-evaluation-2026]]
 - [ ] **Ramon / Marikriss / Grace:** review AIRPRO's AC quotation and layout. → [[projects/jairosoft-facility-hvac-evaluation-2026]]
+- [ ] **Ramon:** decide whether to engage Microsoft's recommended partner (`Emergent Software`) for the Business Premium rollout, or keep it fully in-house. → [[orgs/microsoft-365]]
 - [ ] **Ramon:** clarify whether `jairosoft.dev` is a planned domain (NDR test2 on 2026-04-25). → [[sources/2026-04-25-outlook-undeliverable-test2]]
 
 ### Vendor planning (Aug 1, 2026 cliff)
@@ -196,11 +200,11 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 **Baseline corpus complete.** All **135** raw inbox files for `2026-04-18 → 2026-04-25` are ingested into the wiki. Since then, additional raw mail from `2026-04-26 → 2026-05-05` has started to be fetched and ingested substantively.
 
 Counts currently represented in wiki:
-- **133** have per-source pages in `wiki/sources/`.
+- **141** have per-source pages in `wiki/sources/`.
 - **22** Google Workspace lifecycle events are batched into [[projects/google-workspace-migration-2026]] `covered_sources`.
 - **5** vendor-onboarding emails remain subsumed into entity pages.
 
-Counts cross-check for currently represented sources: 133 + 22 + 5 = 160 represented, leaving 17 intentionally raw-only or not-yet-ingested inbox files in the current checkout.
+Counts cross-check for currently represented sources: 141 + 22 + 5 = 168 represented, leaving 33 raw mail files intentionally raw-only or not-yet-ingested in the current checkout.
 
 Next-step suggestions:
 - Continue the `2026-05-05` ingest batch only if completeness matters more than signal; most remaining items are notification-heavy.

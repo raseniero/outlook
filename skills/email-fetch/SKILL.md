@@ -29,7 +29,7 @@ files into `raw/inbox/`.
 |------|---------|
 | `/Users/jairo/Projects/outlook/raw/inbox/` | Write target for new email files |
 | `/Users/jairo/Projects/outlook/raw/INDEX.md` | Updated after each fetch |
-| `/Users/jairo/Projects/outlook/docs/outlook-inbox-prioritization.md` | Priority classification reference |
+| `/Users/jairo/Projects/outlook/raw/docs/outlook-inbox-prioritization.md` | Canonical triage rubric and priority reference |
 
 ## Inputs
 

@@ -4,8 +4,8 @@ title: "Ramon Aseniero Jr."
 aliases: ["Ramon Aseniero", "RAMON ASENIERO JR"]
 tags: [internal, jairosoft, founder, hub]
 created: 2026-04-26
-updated: 2026-05-05
-source_count: 135
+updated: 2026-05-06
+source_count: 143
 ---
 
 # Ramon Aseniero Jr.
@@ -67,10 +67,21 @@ Two parallel signals on 2026-04-20: enrolled in **Claude 101** ([[orgs/anthropic
 - [ ] Decide what follow-up is needed on Adam Bernaldez's H1B-role vs actual-scope documentation. → [[sources/2026-05-04-adam-h1b-actual-project-role]]
 - [ ] Decide whether to keep Jairosoft's General Dynamics supplier registration active and refresh the profile. → [[sources/2026-04-26-general-dynamics-supplier-registration-update]]
 - [ ] Review AIRPRO's AC quotation and layout for JAIROSOFT INC. → [[sources/2026-05-01-airpro-ac-quotation-jairosoft-inc]]
+- [ ] Decide whether to engage Microsoft's recommended partner (`Emergent Software`) or keep the Business Premium rollout in-house. → [[sources/2026-05-06-re-microsoft-consultation-business-premium]]
+- [ ] Decide whether to schedule the Microsoft `Copilot` demo. → [[sources/2026-05-06-re-microsoft-consultation-business-premium]]
 - [ ] Verify whether the large OneDrive deletion event was intentional and restore anything needed within the retention window. → [[sources/2026-04-26-onedrive-large-number-files-deleted]]
+- [ ] Create a new ADO user with shared-inbox access for Jodex QA users if the Shared Services summary still stands. → [[sources/2026-05-05-summary-shared-services-devops-it-uiux]]
+- [ ] Review whether any of the eight MyBidMatch opportunities deserve promotion into the wiki as named bids. → [[sources/2026-05-05-mybidmatch-may5]]
 
 ## Recent activity
 
+- 2026-05-06 — Microsoft followed up on Business Premium and Copilot, recommending Emergent Software as the partner path. → [[sources/2026-05-06-re-microsoft-consultation-business-premium]]
+- 2026-05-06 — Luzmibel reported Flawless Iteration 7.2 smoke testing completed with no blocking issues. → [[sources/2026-05-06-re-approval-for-release-iteration72]]
+- 2026-05-06 — TeamsMaestro surfaced concrete AWS / deployment / security follow-up under the ColinaHealth architecture thread. → [[sources/2026-05-06-summary-colinahealth-architecture-discussion]]
+- 2026-05-05 — Carol reported Flawless Iteration 7.2 deployed across iOS/Android/web; Luzmibel said smoke testing was underway. → [[sources/2026-05-05-carol-iteration72-release-update]], [[sources/2026-05-05-luzmibel-smoke-testing-iteration72]]
+- 2026-05-05 — Luzmibel submitted her Apr 16-30 invoice for processing. → [[sources/2026-05-05-luzmibel-invoice-apr16-30]]
+- 2026-05-05 — Whiskey Agile Team surfaced a ColinaHealth architecture discussion thread. → [[sources/2026-05-05-colinahealth-architecture-discussion]]
+- 2026-05-05 — Hawaii APEX Accelerator reported eight new MyBidMatch opportunities. → [[sources/2026-05-05-mybidmatch-may5]]
 - 2026-05-02 — U.S. Bank confirmed a $1,686.32 Zelle payment to Adam Bernaldez was deposited. → [[sources/2026-05-02-usbank-zelle-payment-deposited-adam]]
 - 2026-05-01 — Mark Colina forwarded AIRPRO's AC quotation and layout for JAIROSOFT INC. after site inspection. → [[sources/2026-05-01-airpro-ac-quotation-jairosoft-inc]]
 - 2026-04-26 — SharePoint warned that a large number of files were deleted from Ramon's OneDrive. → [[sources/2026-04-26-onedrive-large-number-files-deleted]]

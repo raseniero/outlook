@@ -4,8 +4,8 @@ title: "Jairosoft LLC"
 aliases: ["Jairosoft", "jairosoft.com"]
 tags: [internal, employer, hub]
 created: 2026-04-26
-updated: 2026-05-05
-source_count: 124
+updated: 2026-05-06
+source_count: 132
 ---
 
 # Jairosoft LLC
@@ -95,6 +95,7 @@ Jairosoft is the operating company. All internal staff have `@jairosoft.com` ema
 - [[projects/eazyscanner]] — iOS app on TestFlight; scope TBD.
 - [[projects/ticket-dismisser-crm-app]] — Karl-led roadmap (Epic 203235); CRM app tool; scope TBD.
 - [[projects/portfolio-health-dashboard]] — **Daily** self-sent HTML report (Karl + Grace + Bomar distribution).
+- [[projects/colinahealth-architecture]] — **active** — AWS/network, deployment, and SSM/security work is now visible beyond the original invite shell.
 
 ### Facilities / capex
 - [[projects/jairosoft-solar-facility-evaluation-2026]] — **active** — 5 vendor proposals received 2026-04-25 (Hybrid 24/36KW + Grid Tie 20/30/36KW); facility likely PH office (Marikriss + Grace involvement).

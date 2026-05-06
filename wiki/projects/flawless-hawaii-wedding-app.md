@@ -11,14 +11,14 @@ qa_lead: ressa-paracuelles
 tags: [client-engagement, mobile-app, web-app, multi-iteration, healthy, sales-followup-pending]
 started: "(pre-corpus)"
 created: 2026-04-26
-updated: 2026-05-05
-source_count: 4
+updated: 2026-05-06
+source_count: 7
 supersedes: shannon-nofo-app-development
 ---
 
 # Flawless Hawaii Wedding App
 
-**Status:** **Active, but no longer just "post-release healthy."** Iteration 7.1 shipped cleanly, and a likely-flawless May 4 planning summary now points to active iteration **7.3** work, mobile-access blockers, RevenueCat delays, and a possible app-launch slowdown while web `2.0` is prioritized. One outstanding sales-side ask remains: developer cost info for scale-up (overdue weeks).
+**Status:** **Active, with Iteration 7.2 now through smoke test.** Iteration 7.1 shipped cleanly, the May 5 release thread put **Iteration 7.2** into production across iOS/Android/web, and a May 6 follow-up says smoke testing completed with **no blocking issues**. In parallel, a likely-Flawless May 4 planning summary still points to active **7.3** work, mobile-access blockers, RevenueCat delays, and a possible app-launch slowdown while web `2.0` is prioritized. One outstanding sales-side ask remains: developer cost info for scale-up (overdue weeks).
 **Counterpart:** [[people/shannon-nofo]] @ [[orgs/flawless-hawaii-wedding-app]]
 **Our owners:** [[people/karl-caumban]], [[people/carol-cuison]]; QA: [[people/ressa-paracuelles]]
 **Visibility:** [[people/joe-nofo]] (cc, internal — likely family connection to Shannon), [[people/ramon-aseniero]]
@@ -31,7 +31,7 @@ Multi-iteration build of the Flawless Hawaii Wedding App — a wedding-vendor ma
 
 ## Status now
 
-**Iteration 7.1 release cycle completed** as of 2026-04-21, but work has clearly moved into later planning. A May 4 meeting summary with Flawless-specific language (vendor/bride flows, affiliate feature, RevenueCat, web 2.0, app launch timing) suggests the team is now planning **iteration 7.3**, with access blockers on native mobile and a potential sequencing choice to favor web `2.0` before app launch. **Open sales-side commitment:** Karl + Carol still owe Shannon developer cost info for adding an additional developer to support further web-app work — overdue weeks; risk to relationship if not unblocked promptly.
+**Iteration 7.1 release cycle completed** as of 2026-04-21. The May 5 release thread then moved **Iteration 7.2** into production across iOS, Android, and web, and the May 6 follow-up closed the smoke-testing step with **no blocking issues identified**. Separately, a May 4 meeting summary with Flawless-specific language (vendor/bride flows, affiliate feature, RevenueCat, web 2.0, app launch timing) suggests the team is already planning **iteration 7.3**, with access blockers on native mobile and a potential sequencing choice to favor web `2.0` before app launch. **Open sales-side commitment:** Karl + Carol still owe Shannon developer cost info for adding an additional developer to support further web-app work — overdue weeks; risk to relationship if not unblocked promptly.
 
 ## Goals / scope
 
@@ -46,6 +46,7 @@ Multi-iteration build of the Flawless Hawaii Wedding App — a wedding-vendor ma
 
 - [ ] **Karl / Carol — overdue weeks:** send Shannon developer cost breakdown for additional headcount on the web build. → [[sources/2026-04-18-shannon-nofo-additions-developers]]
 - [ ] **Ramon:** confirm Karl/Carol unblock within 1–2 business days; intervene if needed.
+- [ ] **Luzmibel / release owners:** monitor for any post-release issues after the completed Iteration 7.2 smoke test. → [[sources/2026-05-06-re-approval-for-release-iteration72]]
 - [ ] **Earl / mobile owners:** resolve native mobile access blockers and unblock RevenueCat setup. → [[sources/2026-05-05-summary-ad-hoc-meeting]]
 
 ## Iteration 7.1 detail (closed defects, partial)
@@ -64,6 +65,8 @@ Multi-iteration build of the Flawless Hawaii Wedding App — a wedding-vendor ma
 - **2026-04-19** — Ressa sent Iteration 7.1 release package for customer approval.
 - **2026-04-20** — Shannon: "Approved. Amazing!" → Ressa deployed iOS/Android (OTA), web (prod). → [[sources/2026-04-20-iteration-7.1-deployment-update]]
 - **2026-04-21** — Smoke testing complete in production for iOS 210 / Android 199; release cycle closes. → [[sources/2026-04-21-iteration-7.1-smoke-testing-complete]]
+- **2026-05-05** — Carol reported Iteration 7.2 deployed across iOS/Android/web; Luzmibel said smoke testing was in progress. → [[sources/2026-05-05-carol-iteration72-release-update]], [[sources/2026-05-05-luzmibel-smoke-testing-iteration72]]
+- **2026-05-06** — Luzmibel reported smoke testing completed across web, iOS, and Android with no blocking issues. → [[sources/2026-05-06-re-approval-for-release-iteration72]]
 - **2026-05-04** — Ad-hoc planning summary points to iteration 7.3 work: affiliate feature continuation, RevenueCat blockers, web 2.0 sequencing, and DNS cutover planning. *(Inference from domain vocabulary + attendee mix.)* → [[sources/2026-05-05-summary-ad-hoc-meeting]]
 
 ## Sources
@@ -71,6 +74,9 @@ Multi-iteration build of the Flawless Hawaii Wedding App — a wedding-vendor ma
 - [[sources/2026-04-18-shannon-nofo-additions-developers]]
 - [[sources/2026-04-20-iteration-7.1-deployment-update]]
 - [[sources/2026-04-21-iteration-7.1-smoke-testing-complete]]
+- [[sources/2026-05-05-carol-iteration72-release-update]]
+- [[sources/2026-05-05-luzmibel-smoke-testing-iteration72]]
+- [[sources/2026-05-06-re-approval-for-release-iteration72]]
 - [[sources/2026-05-05-summary-ad-hoc-meeting]]
 
 ## Related

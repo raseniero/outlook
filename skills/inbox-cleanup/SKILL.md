@@ -32,7 +32,7 @@ Reads enriched markdown files from `raw/inbox/`, applies prioritization rules, a
 |------|---------|
 | `/Users/jairo/Projects/outlook/raw/inbox/` | Read source — current inbox emails |
 | `/Users/jairo/Projects/outlook/raw/archive/` | Move target — emails after archiving |
-| `/Users/jairo/Projects/outlook/docs/outlook-inbox-prioritization.md` | Prioritization rules reference |
+| `/Users/jairo/Projects/outlook/raw/docs/outlook-inbox-prioritization.md` | Canonical triage rubric and prioritization rules |
 
 ## MCP Calls
 

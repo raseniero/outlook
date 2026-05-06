@@ -36,7 +36,7 @@ Identifies emails in `raw/inbox/` that are safe to archive, backfills any missin
 |------|---------|
 | `/Users/jairo/Projects/outlook/raw/inbox/` | Source — current inbox email files |
 | `/Users/jairo/Projects/outlook/working/` | Output — timestamped candidate lists |
-| `/Users/jairo/Projects/outlook/docs/outlook-inbox-prioritization.md` | Priority classification reference |
+| `/Users/jairo/Projects/outlook/raw/docs/outlook-inbox-prioritization.md` | Canonical triage rubric and priority reference |
 
 ## Safe-to-archive criteria
 

@@ -4,8 +4,8 @@ title: "Carol Cuison"
 aliases: []
 tags: [internal, jairosoft, admin, finance, flawless-co-owner]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 3
+updated: 2026-05-05
+source_count: 4
 ---
 
 # Carol Cuison
@@ -16,6 +16,7 @@ source_count: 3
 
 ## Recent activity
 
+- 2026-05-05 — Reported Iteration 7.2 production release status for Flawless across iOS, Android, and web. → [[sources/2026-05-05-carol-iteration72-release-update]]
 - 2026-04-20 — Replied to Luke's Apr 1–15 timesheet thread (no body). → [[sources/2026-04-20-carol-cuison-luke-timesheet-reply]]
 - 2026-04-20 — On Iteration 7.1 deployment update cc. → [[sources/2026-04-20-iteration-7.1-deployment-update]]
 - 2026-04-20 — On Leadership Team weekly meeting distribution. → [[sources/2026-04-20-leadership-team-weekly-discussion]]

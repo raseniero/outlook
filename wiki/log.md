@@ -421,3 +421,45 @@ Append-only chronological log. Newest at the bottom — `tail -n 30 log.md` show
   2. **The 36KW hybrid proposal was revised** after a panel-to-inverter adjustment, which is a useful procurement nuance not visible in the earlier IMAP-captured source.
   3. **Jairosoft is funding OpenAI API usage directly**, not only using desktop apps and account features.
   4. **A large OneDrive deletion event occurred on or before 2026-04-26**; recovery remains possible for 93 days from Microsoft's warning.
+
+## [2026-05-05] ingest-batch | late-day batch 6 — Flawless 7.2, Luzmibel, ColinaHealth, MyBidMatch
+
+- **Sources read (5):** carol-iteration72-release-update, luzmibel-smoke-testing-iteration72, luzmibel-invoice-apr16-30, colinahealth-architecture-discussion, mybidmatch-may5.
+- **Per-source pages created (5):** all 5.
+- **New entity / project pages created (2):**
+  - `orgs/hawaii-apex-accelerator`
+  - `projects/colinahealth-architecture`
+- **Pages updated (7):**
+  - `projects/flawless-hawaii-wedding-app` — now reflects Iteration 7.2 deployment and ongoing smoke testing, not just 7.1 + 7.3 planning.
+  - `orgs/flawless-hawaii-wedding-app` — now shows 7.2 release activity.
+  - `people/carol-cuison` — now tied directly to the Iteration 7.2 release update.
+  - `people/luzmibel-paculanang` — promoted beyond stub-level AutoAllies visibility into real release and invoice activity.
+  - `people/ramon-aseniero` — now includes Flawless 7.2, Luzmibel billing, ColinaHealth architecture, and MyBidMatch feed visibility.
+  - `orgs/jairosoft` — now lists ColinaHealth architecture as an internal planning thread.
+  - `wiki/index.md` — counts and backlog framing updated.
+- **Major findings:**
+  1. **Flawless is materially past the 7.1 snapshot** — Iteration 7.2 has been deployed and is in smoke testing while 7.3 planning is already active.
+  2. **Luzmibel Paculanang is no longer just a stub/distribution-list participant** — she is now visible as both execution-side contributor and contractor-billing sender.
+  3. **ColinaHealth** is now a named internal architecture thread, though still too thin to characterize.
+  4. **MyBidMatch / Hawaii APEX Accelerator** is a distinct procurement-feed channel worth tracking separately from HiePro and SAM.gov.
+
+## [2026-05-06] ingest-batch | May 6 selective ingest — Microsoft follow-up, Flawless smoke-test closeout, ColinaHealth details
+
+- **Sources read (3):**
+  - `raw/inbox/2026-05-06-re-microsoft-consultation-business-premium.md`
+  - `raw/inbox/2026-05-06-re-approval-for-release-iteration72.md`
+  - `raw/inbox/2026-05-06-summary-colinahealth-architecture-discussion.md`
+- **Per-source pages created (3):** all 3.
+- **Pages updated (8):**
+  - `projects/flawless-hawaii-wedding-app` — advanced Iteration 7.2 from "smoke testing in progress" to "smoke testing complete with no blocking issues."
+  - `orgs/flawless-hawaii-wedding-app` — now reflects the clean smoke-test completion.
+  - `projects/colinahealth-architecture` — no longer just a stub; now captures AWS/network, deployment, logging, and SSM/security follow-up.
+  - `orgs/microsoft-365` — now records Microsoft's active Business Premium + Copilot push and the recommended partner path.
+  - `analyses/productivity-suite-duplication` — now notes that Microsoft is actively trying to steer the Aug 1 renewal decision toward Business Premium + Copilot.
+  - `people/luzmibel-paculanang` — now shows the closeout step of the 7.2 release cycle, not just the in-progress note.
+  - `people/ramon-aseniero` / `orgs/jairosoft` — now reflect the Microsoft follow-up, Flawless smoke-test completion, and richer ColinaHealth architecture workstream.
+  - `wiki/index.md` — counts refreshed to current raw + represented totals after archives and the May 6 fetch.
+- **Major findings:**
+  1. **Flawless Iteration 7.2 cleared smoke testing cleanly** — the release is now beyond "in progress" and no blockers were reported.
+  2. **ColinaHealth is no longer a thin placeholder** — the current corpus now shows real AWS/network, deployment, and security remediation work with named owners.
+  3. **Microsoft is actively influencing the M365 renewal path** — the Business Premium + Copilot motion is now explicit, with `Emergent Software` offered as the partner route.
