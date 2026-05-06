@@ -4,8 +4,8 @@ title: "Teofilo T. Limpag Jr."
 aliases: ["Teofilo Limpag"]
 tags: [internal, jairosoft, it-administrator, autoallies-lead, branch-protection, infrastructure]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 4
+updated: 2026-05-05
+source_count: 5
 ---
 
 # Teofilo T. Limpag Jr.
@@ -20,6 +20,7 @@ Teofilo wears two hats: he's Jairosoft's IT Administrator (handling infrastructu
 
 ## Recent activity
 
+- 2026-05-05 — Asked Ramon to complete the IT Support Services Mid PI-07 feedback survey by 2026-05-12. → [[sources/2026-05-05-teofilo-pi07-feedback-survey]]
 - 2026-04-24 — Google Workspace data-transfer failed; account presumed retained (verify in admin console). → [[projects/google-workspace-migration-2026]]
 - 2026-04-20 — **Sent Nurture Collective AWS RDS connection string with plaintext credentials** to Cricket + Ramon (cc Joe Nofo + the client). Security-hygiene concern raised. → [[sources/2026-04-20-nurture-collective-connection-string]]
 - 2026-04-20 — Submitted AutoAllies Branch Protection budget request PDF to Ramon for approval (originating message of the 3-reply thread). → [[sources/2026-04-20-teofilo-autoallies-branch-protection-budget]]

@@ -4,8 +4,8 @@ title: "Marikriss Aseniero"
 aliases: ["Kriss"]
 tags: [internal, jairosoft, branch-protection-thread, aseniero-family]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 4
+updated: 2026-05-05
+source_count: 7
 ---
 
 # Marikriss Aseniero
@@ -16,6 +16,7 @@ source_count: 4
 
 ## Recent activity
 
+- 2026-04-26 — On the Outlook-captured Goldenboy solar-forward duplicates for Jairosoft facilities evaluation. → [[sources/2026-04-26-mark-colina-24kw-hybrid-forward]], [[sources/2026-04-26-mark-colina-hybrid-36kw-forward]], [[sources/2026-04-26-mark-colina-grid-tie-package-forward]]
 - 2026-04-20 — Replied to Branch Protection budget request thread (no body). → [[sources/2026-04-20-marikriss-branch-protection-budget-reply]]
 - 2026-04-20 — On Vicsante Aseniero's invoice cc. → [[sources/2026-04-20-vicsante-invoice-apr1-15]]
 - 2026-04-20 — On Leadership Team weekly meeting distribution. → [[sources/2026-04-20-leadership-team-weekly-discussion]]

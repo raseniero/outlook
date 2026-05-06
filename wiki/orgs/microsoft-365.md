@@ -4,14 +4,14 @@ title: "Microsoft 365"
 aliases: ["M365", "Office 365", "Microsoft", "Outlook", "Exchange Online"]
 tags: [vendor, productivity-platform, microsoft, email-backbone, recurring-billing]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 3
+updated: 2026-05-05
+source_count: 4
 ---
 
 # Microsoft 365
 
 **Type:** Productivity / email platform vendor (Microsoft).
-**Status:** **Email backbone for jairosoft.com** (Outlook / Exchange Online — Outlook NDRs originate from `postmaster@jairosoft.com`). Active subscription stack on JAIROSOFT LLC.
+**Status:** **Email backbone for jairosoft.com** (Outlook / Exchange Online — Outlook NDRs originate from `postmaster@jairosoft.com`). Active subscription stack on JAIROSOFT LLC, with OneDrive / SharePoint also surfacing in the corpus.
 **Senders:** `microsoft-noreply@microsoft.com` (billing), `postmaster@jairosoft.com` (mail server).
 
 ## Overview
@@ -28,10 +28,12 @@ Both are credit-card auto-charge — no action required. The two-tier mix is unu
 ## Active engagements
 
 - **Email/Exchange Online for jairosoft.com** — primary mail platform.
+- **OneDrive / SharePoint** — active collaboration/storage surface; recent warning indicates a large file-deletion event in Ramon's OneDrive.
 - Two parallel subscription tiers (Basic + Standard) — see consolidation note above.
 
 ## Recent activity
 
+- 2026-04-26 — SharePoint Online warned that a large number of OneDrive files were deleted and remain restorable for 93 days. → [[sources/2026-04-26-onedrive-large-number-files-deleted]]
 - 2026-04-25 — M365 Business Basic invoice. → [[sources/2026-04-25-microsoft365-business-basic-invoice]]
 - 2026-04-25 — M365 Business Standard invoice. → [[sources/2026-04-25-microsoft365-business-standard-invoice]]
 - 2026-04-25 — Outlook NDR test2 (`ramon@jairosoft.dev`, 550 5.1.1). → [[sources/2026-04-25-outlook-undeliverable-test2]]

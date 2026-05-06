@@ -4,8 +4,8 @@ title: "Ramon Aseniero Jr."
 aliases: ["Ramon Aseniero", "RAMON ASENIERO JR"]
 tags: [internal, jairosoft, founder, hub]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 113
+updated: 2026-05-05
+source_count: 135
 ---
 
 # Ramon Aseniero Jr.
@@ -24,19 +24,20 @@ Founder and CEO of Jairosoft LLC. Operates as the primary external face on most 
 - **[[projects/gohealth-voice-ai-initiative]]** — Vendor Response Sheet submitted 2026-04-24; awaiting GoHealth next-steps (~2026-05-01).
 - **[[projects/flawless-hawaii-wedding-app]]** — Active and healthy (Iteration 7.1 just shipped). Sales-side dev-cost reply still owed to Shannon.
 - **[[projects/google-workspace-migration-2026]]** — Plan upgraded to Business Standard; cleanup nearly done. **Takeout download due 2026-05-02 (Sat)** — single window, critical.
-- **[[projects/autoallies-autodefense]]** — On cc / visibility for the Auto Allies AutoDefense Product Sync (Karl-led).
+- **[[projects/autoallies-autodefense]]** — On cc / visibility for the Auto Allies AutoDefense Product Sync (Karl-led); v2 mobile migration / ownership cleanup now visible.
 - **[[projects/aws-partner-ai-practitioner-cert-2026]]** — Personal dev: in Week 2 of AWS AI Practitioner cert prep.
 - **[[projects/autoallies-branch-protection]]** — Awaiting your approval on Teofilo's budget request PDF (received 2026-04-20).
 - **[[orgs/nurture-collective]]** — Active client; AWS RDS Postgres setup + Spanish translation work in flight.
 - **[[projects/final-dev-scope-aloha-roadway]]** — Contract walkthrough Friday 2026-04-24 at Aloha Roadway office (rescheduled from 2026-04-22 due to Sean medical emergency).
 - **[[projects/jairosoft-dotax-compliance]]** — DOTAX A6 Form Not Compliant; resolve before next HI bid.
-- **[[projects/gohealth-jairosoft-engineering-engagement]]** — Visibility on Karl-led 9-person GoHealth dev engagement (Hartford slipped Jul 1, EMR HL7/R4, Vercel breach response).
+- **[[projects/gohealth-jairosoft-engineering-engagement]]** — Visibility on Karl-led 9-person GoHealth dev engagement (Hartford slipped Jul 1, EMR HL7/R4, Vercel breach response); Adam's May 4 note adds a clearer picture of lead-developer responsibilities on the ground.
 - **[[projects/eazyscanner]]** — Beta tester on Jairosoft's TestFlight iOS app.
 - **[[projects/ticket-dismisser-crm-app]]** — Reviewer on Karl's Epic 203235 roadmap (received 2026-04-22).
 - **[[projects/hishaam-employment-opportunity]]** — Active candidate; Mon 2026-04-27 call scheduled.
 - **[[projects/google-developer-gear]]** — Enrolled 2026-04-23; AI agent training (35 credits/month).
 - **[[projects/portfolio-health-dashboard]]** — Daily self-sent recurring report (Karl + Grace + Bomar).
 - **[[projects/jairosoft-solar-facility-evaluation-2026]]** — 5 vendor proposals received 2026-04-25; review with Grace + Marikriss.
+- **[[projects/jairosoft-facility-hvac-evaluation-2026]]** — AIRPRO quotation forwarded after site inspection for JAIROSOFT INC.
 
 ## Strategic AI investment (cross-cutting)
 
@@ -60,9 +61,35 @@ Two parallel signals on 2026-04-20: enrolled in **Claude 101** ([[orgs/anthropic
 - [ ] Confirm Karl/Carol send Shannon the dev-cost breakdown within 1–2 business days. → [[projects/flawless-hawaii-wedding-app]]
 - [ ] Verify in Google admin console that Grace and Teofilo accounts remain active (transfers failed 2026-04-24 with no later success notice). → [[projects/google-workspace-migration-2026]]
 - [ ] Accept the new Google Product Agreement for Workspace Business Standard. → [[projects/google-workspace-migration-2026]]
+- [ ] Review / approve the internal street-signage design request. → [[sources/2026-05-05-street-signage-design-proposal]]
+- [ ] Review Adam Bernaldez's CLEAR1 Atlanta travel-expense reimbursement. → [[sources/2026-05-05-adam-clear1-travel-expenses]]
+- [ ] Confirm whether the newly added Azure DevOps PAT `casacolinacom` was expected. → [[sources/2026-05-03-azure-devops-personal-access-token-added]]
+- [ ] Decide what follow-up is needed on Adam Bernaldez's H1B-role vs actual-scope documentation. → [[sources/2026-05-04-adam-h1b-actual-project-role]]
+- [ ] Decide whether to keep Jairosoft's General Dynamics supplier registration active and refresh the profile. → [[sources/2026-04-26-general-dynamics-supplier-registration-update]]
+- [ ] Review AIRPRO's AC quotation and layout for JAIROSOFT INC. → [[sources/2026-05-01-airpro-ac-quotation-jairosoft-inc]]
+- [ ] Verify whether the large OneDrive deletion event was intentional and restore anything needed within the retention window. → [[sources/2026-04-26-onedrive-large-number-files-deleted]]
 
 ## Recent activity
 
+- 2026-05-02 — U.S. Bank confirmed a $1,686.32 Zelle payment to Adam Bernaldez was deposited. → [[sources/2026-05-02-usbank-zelle-payment-deposited-adam]]
+- 2026-05-01 — Mark Colina forwarded AIRPRO's AC quotation and layout for JAIROSOFT INC. after site inspection. → [[sources/2026-05-01-airpro-ac-quotation-jairosoft-inc]]
+- 2026-04-26 — SharePoint warned that a large number of files were deleted from Ramon's OneDrive. → [[sources/2026-04-26-onedrive-large-number-files-deleted]]
+- 2026-04-26 — OpenAI charged $10.00 to fund the API credit balance. → [[sources/2026-04-26-openai-api-account-funded]]
+- 2026-04-26 — Outlook-captured duplicate solar forwards identified Goldenboy Water Systems as the solar-proposal vendor. → [[sources/2026-04-26-mark-colina-24kw-hybrid-forward]], [[sources/2026-04-26-mark-colina-hybrid-36kw-forward]], [[sources/2026-04-26-mark-colina-grid-tie-package-forward]]
+- 2026-05-05 — Grace requested board-side approval on internal street signage design. → [[sources/2026-05-05-street-signage-design-proposal]]
+- 2026-05-05 — Adam Bernaldez submitted CLEAR1 Atlanta travel-expense reimbursement breakdown. → [[sources/2026-05-05-adam-clear1-travel-expenses]]
+- 2026-05-05 — Grace sent OpEx summary for the May 10 release. → [[sources/2026-05-05-grace-jairosoft-opex-may10-release]]
+- 2026-05-05 — HIePRO issued Q&A answers notice for solicitation `P26002329`. → [[sources/2026-05-05-hiepro-p26002329-answers]]
+- 2026-05-05 — TeamsMaestro AutoDefense summary surfaced v2 native-app migration and ownership cleanup work. → [[sources/2026-05-05-summary-autoallies-autodefense-sync]]
+- 2026-05-04 — Adam documented H1B-role vs actual-scope mismatch, describing himself as Lead/Senior Developer on core GoHealth streams. → [[sources/2026-05-04-adam-h1b-actual-project-role]]
+- 2026-05-03 — Azure DevOps reported a new PAT `casacolinacom` with all scopes on the `jairo` org. → [[sources/2026-05-03-azure-devops-personal-access-token-added]]
+- 2026-04-29 — GoHealth weekly review summary flagged unresolved production issues and stronger QA / PM process concerns. → [[sources/2026-04-29-gohealth-weekly-review-summary]]
+- 2026-04-27 — OpenAI repeated the macOS security-update requirement before 2026-05-08. → [[sources/2026-04-27-openai-macos-security-update-2]]
+- 2026-04-27 — HIePRO issued a Q&A answers notice for solicitation `P26001887`. → [[sources/2026-04-27-hiepro-p26001887-answers]]
+- 2026-04-26 — General Dynamics requested a supplier-registration profile refresh from Jairosoft. → [[sources/2026-04-26-general-dynamics-supplier-registration-update]]
+- 2026-04-28 — LPM review raised QA-restructuring and AI-in-QA automation as explicit internal change themes. → [[sources/2026-04-28-jairo-program-alignment-lpm-review]]
+- 2026-04-27 — LPM review linked branch-protection purchase, FinOps consolidation, and GitHub token / PR follow-up. → [[sources/2026-04-27-jairo-program-alignment-lpm-review]]
+- 2026-04-26 — Google Workspace confirmed the domain export `ramon_jairosoft_gmail_export` completed. → [[sources/2026-04-26-google-workspace-data-export-complete]]
 - 2026-04-24 — Joe Nofo accepted Final Dev Scope meeting. → [[sources/2026-04-24-joe-accepted-final-dev-scope]]
 - 2026-04-24 — HiePro Q26002498 RFQ (Endpoint Device Maintenance, Hansen's Disease Branch). → [[sources/2026-04-24-hiepro-solicitation-q26002498-hansens-disease]]
 - 2026-04-24 — HiePro P26002371 RFQ (EFS Transition Readiness Support, Statewide). → [[sources/2026-04-24-hiepro-solicitation-p26002371-efs]]
@@ -116,6 +143,7 @@ Two parallel signals on 2026-04-20: enrolled in **Claude 101** ([[orgs/anthropic
 - 2026-04-23 — Received cancellation notices: Business Starter and Cloud Identity Free both scheduled for 2026-05-08. → [[projects/google-workspace-migration-2026]]
 - 2026-04-21 — Storage-expired notification (account in read-only since 2025-09-16). → [[projects/google-workspace-migration-2026]]
 - 2026-04-20 — Received Week 2 AWS AI Practitioner cert assignment. → [[sources/2026-04-20-aws-partner-cert-week2-ai-practitioner]]
+- 2026-04-20 — Hishaam followed up on the scheduled Apr 25 compensation call and offered Mauritius/PHT flexibility. → [[sources/2026-04-20-hishaam-compensation-expectations]]
 - 2026-04-20 — Registered for Claude 101 ([[orgs/anthropic]]).
 - 2026-04-20 — Derek Norton (GoHealth) accepted touch-base. → [[sources/2026-04-20-derek-norton-accepted-touchbase]]
 - 2026-04-20 — cc on Auto Allies AutoDefense Product Sync invite. → [[sources/2026-04-20-auto-allies-autodefense-sync]]

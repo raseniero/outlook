@@ -2,25 +2,25 @@
 
 Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.md](../SCHEMA.md) for conventions.
 
-**Last updated:** 2026-04-26 (after backfill batch 12 — final 15 from 2026-04-25; **CORPUS COMPLETE**)
-**Page totals:** people=51 · orgs=25 · projects=15 · topics=0 · threads=0 · sources=106 · analyses=3
-**Backfill progress:** **134 / 134 raw inbox sources ingested — corpus complete (2026-04-18 → 2026-04-25).**
+**Last updated:** 2026-05-05 (duplicate-corroboration and platform events ingested from 2026-04-26)
+**Page totals:** people=52 · orgs=32 · projects=18 · topics=0 · threads=0 · sources=133 · analyses=3
+**Backfill progress:** **160 / 177 raw inbox sources represented in wiki.** Baseline corpus `2026-04-18 → 2026-04-25` remains complete; substantive follow-up from `2026-04-26 → 2026-05-05` is still in progress.
 
 ---
 
 ## People
 
 ### Internal — Jairosoft (leadership / senior)
-- [[people/ramon-aseniero]] — Founder & CEO; **hub** (93)
+- [[people/ramon-aseniero]] — Founder & CEO; **hub** (130)
 - [[people/joe-nofo]] — Senior; Aloha Roadway JV v2 (5)
-- [[people/karl-caumban]] — **Agile Project Manager** (Karl Jordan P. Caumban) (8)
+- [[people/karl-caumban]] — **Agile Project Manager** (Karl Jordan P. Caumban) (10)
 
 ### Internal — Jairosoft (Support Team — Admin / Finance / HR)
-- [[people/mary-grace-garcia]] — Admin/Finance/HR (Grace) (4)
+- [[people/mary-grace-garcia]] — Admin/Finance/HR (Grace) (9)
 - [[people/carol-cuison]] — Admin/Finance; Flawless co-owner (3)
 - [[people/almera-tayao]] — HR (1)
 - [[people/maria-lina-cuestas]] — Support Team (stub, 1)
-- [[people/mark-colina]] — Support Team + solar-proposal forwarder (4)
+- [[people/mark-colina]] — Support Team + facilities-procurement liaison (11)
 
 ### Internal — Jairosoft (IT / infrastructure)
 - [[people/teofilo-limpag]] — IT Administrator (4)
@@ -42,7 +42,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [[people/ryan-castillo]] — Role TBD
 - [[people/luke-colina]] — Contractor (Colina-family)
 - [[people/vicsante-aseniero]] — Contractor (Aseniero-family)
-- [[people/marikriss-aseniero]] — Aseniero-family
+- [[people/marikriss-aseniero]] — Aseniero-family (7)
 
 ### External — Active clients
 - [[people/shannon-nofo]] — Founder, Flawless (alias Shannon Hannold) (2)
@@ -59,7 +59,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [[people/apple-nurture-collective]] — *(Apple Sepulveda)* (2)
 
 ### External — Hiring / partnerships / cold pitches
-- [[people/hishaam-namooya]] — **Active candidate**; Mauritius (2)
+- [[people/hishaam-namooya]] — **Active candidate**; Mauritius (3)
 - [[people/daniella-mcmillan]] — AWS Partner Territory Manager (1)
 - [[people/david-dahilig]] — PNBRCI; OpEx primary (2)
 - [[people/abdul-samad]] — RSRIT recruiter (1)
@@ -67,11 +67,11 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 ## Orgs
 
 ### Internal
-- [[orgs/jairosoft]] — the company (LLC + INC entities) (93)
+- [[orgs/jairosoft]] — the company (LLC + INC entities) (124)
 
 ### Active clients
-- [[orgs/gohealth-uc]] — Voice AI eval + 9-person dev team (5)
-- [[orgs/flawless-hawaii-wedding-app]] — Iteration 7.1 cycle complete (3)
+- [[orgs/gohealth-uc]] — Voice AI eval + 9-person dev team (6)
+- [[orgs/flawless-hawaii-wedding-app]] — Iteration 7.3 planning signal now visible after 7.1 release (3)
 - [[orgs/aloha-roadway-services]] — **JV v2** Final Dev Scope (3)
 - [[orgs/auto-allies]] — 3 active workstreams; **$18,332 A/R** (4)
 - [[orgs/nurture-collective]] — AWS RDS + translation (2)
@@ -79,37 +79,41 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 
 ### Vendors / platforms
 - [[orgs/anthropic]] — Claude AI; partner-network (2)
-- [[orgs/openai]] — ChatGPT/Codex; **macOS update due 2026-05-08** (1)
+- [[orgs/openai]] — ChatGPT/Codex; **macOS update due 2026-05-08** (2)
 - [[orgs/aws]] — Cloud + Partner Program; Summit LA Jun 10 (1)
 - [[orgs/azure]] — Microsoft Azure (1)
-- [[orgs/google-workspace]] — primary stack; mid-migration (23)
+- [[orgs/airpro]] — HVAC / facilities quotation vendor for JAIROSOFT INC. (1)
+- [[orgs/goldenboy-water-systems]] — named vendor on the Jairosoft solar-proposal batch (3)
+- [[orgs/google-workspace]] — primary stack; migration cleanup includes completed domain export (23)
 - [[orgs/google-cloud]] — Cloud Next '26 + GEAR (5)
 - [[orgs/duet-display]], [[orgs/scaled-agile]], [[orgs/moodle]], [[orgs/vercel]] (breach), [[orgs/pldt]]
 - [[orgs/wispr-flow]] — voice-input AI productivity tool; Ramon active user (1)
-- [[orgs/microsoft-365]] — **email backbone for jairosoft.com**; 2 parallel tiers (Basic + Standard) renew Aug 1 (3)
+- [[orgs/microsoft-365]] — **email backbone for jairosoft.com**; OneDrive deletion warning now also in-corpus (4)
+- [[orgs/general-dynamics]] — supplier-registration relationship requiring annual refresh (1)
 
 ### Counterparties / govt / cold-source
 - [[orgs/pnbrci]] — Jairosoft OpEx (2)
-- [[orgs/hiepro]] — Hawaii eProcurement; **4 active RFQs** (4)
+- [[orgs/hiepro]] — Hawaii eProcurement; active RFQ stream + P26002329 / P26001887 Q&A notices (8)
 - [[orgs/sba]] (3), [[orgs/uspto]] (3), [[orgs/nsba]] (1), [[orgs/rsrit]] (1)
 
 ## Projects
 
 - [[projects/google-workspace-migration-2026]] — **active** — **Takeout download due 2026-05-02** (22)
-- [[projects/flawless-hawaii-wedding-app]] — **active, healthy** (3)
+- [[projects/flawless-hawaii-wedding-app]] — **active** — 7.3 planning, mobile blockers, RevenueCat delay (4)
 - [[projects/gohealth-voice-ai-initiative]] — **active** (1)
-- [[projects/gohealth-jairosoft-engineering-engagement]] — **active** (3)
+- [[projects/gohealth-jairosoft-engineering-engagement]] — **active** — Adam role-scope now explicitly lead/integration-heavy; Apr 29 review flagged process-health strain (5)
 - [[projects/final-dev-scope-aloha-roadway]] — **active** — **JV v2 Friday 2026-04-24** (5)
-- [[projects/autoallies-autodefense]] — **active** (1)
+- [[projects/autoallies-autodefense]] — **active** — v2 mobile migration / ownership cleanup now visible (2)
 - [[projects/autoallies-branch-protection]] — **active** — Awaiting Ramon's review (3)
 - [[projects/aws-partner-ai-practitioner-cert-2026]] — **active** — Ramon Week 2 (2)
 - [[projects/google-developer-gear]] — **active** — Enrolled 2026-04-23 (1)
 - [[projects/jairosoft-dotax-compliance]] — **active, non-compliant** (1)
 - [[projects/eazyscanner]] — **beta** (1)
 - [[projects/ticket-dismisser-crm-app]] — **planning** (1)
-- [[projects/hishaam-employment-opportunity]] — **in discussion** — Mon 2026-04-27 (2)
+- [[projects/hishaam-employment-opportunity]] — **in discussion** — Mon 2026-04-27 (3)
 - [[projects/shannon-nofo-app-development]] — **superseded**
-- [[projects/jairosoft-solar-facility-evaluation-2026]] — **active** — 5 vendor proposals received 2026-04-25; eval pending (3)
+- [[projects/jairosoft-solar-facility-evaluation-2026]] — **active** — Goldenboy Water Systems identified as current solar vendor; eval pending (6)
+- [[projects/jairosoft-facility-hvac-evaluation-2026]] — **active** — AIRPRO quotation received after site inspection (1)
 
 ## Topics / Threads / Analyses
 
@@ -154,6 +158,7 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [ ] **Ramon:** review Azure PostgreSQL HA retirement notice for affected deployments. → [[orgs/azure]]
 
 ### Bid / no-bid (gated on DOTAX compliance)
+- [ ] HiePro P26001887 (Facilities & Academic Course Scheduling & Optimization, Statewide).
 - [ ] HiePro P26002383 (Captive Insurance, Oahu).
 - [ ] HiePro P26002421 (Airports Maps, Statewide).
 - [ ] HiePro Q26002444 (Investment Management Software, Oahu).
@@ -169,10 +174,13 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 - [ ] **Ramon:** verify Aldred deletion 2026-04-25 was duplicate cleanup, not offboarding.
 - [ ] **Ramon:** accept new Google Product Agreement for Workspace Business Standard.
 - [ ] **Ramon:** follow up with Eli Hersher (GoHealth) by 2026-05-04 if no response.
+- [ ] **Ramon:** decide whether to keep the General Dynamics supplier profile active and refresh it.
 - [ ] **Ramon:** complete Week 2 AWS Skill Builder coursework.
 - [ ] **Ramon:** allocate time to use GEAR's 35 monthly credits.
+- [ ] **Ramon:** verify whether the OneDrive mass-deletion event was intentional and restore anything needed.
 - [ ] **Ramon:** verify PLDT PHP 59,626.90 "previous charges" is re-billed (not missed payment).
 - [ ] **Ramon (with Grace + Marikriss):** evaluate the 5 Mark Colina solar proposals; identify vendor; solicit competitive bid. → [[projects/jairosoft-solar-facility-evaluation-2026]]
+- [ ] **Ramon / Marikriss / Grace:** review AIRPRO's AC quotation and layout. → [[projects/jairosoft-facility-hvac-evaluation-2026]]
 - [ ] **Ramon:** clarify whether `jairosoft.dev` is a planned domain (NDR test2 on 2026-04-25). → [[sources/2026-04-25-outlook-undeliverable-test2]]
 
 ### Vendor planning (Aug 1, 2026 cliff)
@@ -185,14 +193,15 @@ Catalog of all wiki pages. Read this first when answering queries. See [SCHEMA.m
 
 ## Backfill backlog
 
-**CORPUS COMPLETE.** All **134** raw inbox files (2026-04-18 → 2026-04-25) are now ingested into the wiki. Of these:
-- **106** have per-source pages in `wiki/sources/`.
-- **22** Google Workspace lifecycle events are batched into [[projects/google-workspace-migration-2026]] `covered_sources` (per SCHEMA convention — 18 of those now also in `verified_sources` after direct read).
-- **6** vendor-onboarding / transactional emails are subsumed into entity pages (3 Duet Display onboarding into `orgs/duet-display`; 3 Anthropic Education in `orgs/anthropic`).
+**Baseline corpus complete.** All **135** raw inbox files for `2026-04-18 → 2026-04-25` are ingested into the wiki. Since then, additional raw mail from `2026-04-26 → 2026-05-05` has started to be fetched and ingested substantively.
 
-Counts cross-check: 106 + 22 + 6 = 134. ✓
+Counts currently represented in wiki:
+- **133** have per-source pages in `wiki/sources/`.
+- **22** Google Workspace lifecycle events are batched into [[projects/google-workspace-migration-2026]] `covered_sources`.
+- **5** vendor-onboarding emails remain subsumed into entity pages.
+
+Counts cross-check for currently represented sources: 133 + 22 + 5 = 160 represented, leaving 17 intentionally raw-only or not-yet-ingested inbox files in the current checkout.
 
 Next-step suggestions:
-- Run `/lint` (or manual) — orphans, stubs, stale Status now claims.
-- Promote `wiki/threads/` from empty if any cross-day correspondence threads (e.g., Hishaam, Shannon, Aloha JV v2) deserve dedicated thread pages.
-- Bring in fresh emails from 2026-04-26 and beyond.
+- Continue the `2026-05-05` ingest batch only if completeness matters more than signal; most remaining items are notification-heavy.
+- Decide whether the remaining raw-only Outlook/M365 collaboration notices (`ramon-shared-projects-folder`, similar) are worth wiki coverage or should stay source-only.

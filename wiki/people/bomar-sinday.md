@@ -4,8 +4,8 @@ title: "Bomar Sinday"
 aliases: []
 tags: [internal, jairosoft, stub, gohealth-engineering, autoallies-branch-protection]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 3
+updated: 2026-05-05
+source_count: 4
 ---
 
 # Bomar Sinday
@@ -17,6 +17,7 @@ source_count: 3
 ## Recent activity
 
 - 2026-04-20 — On GoHealth Jairosoft Team Weekly Review distribution. → [[sources/2026-04-20-karl-gohealth-team-weekly-review]]
+- 2026-04-28 — Assigned AI-in-QA integration work in LPM review notes. → [[sources/2026-04-28-jairo-program-alignment-lpm-review]]
 - 2026-04-20 — On Karl's Branch Protection budget reply distribution. → [[sources/2026-04-20-karl-branch-protection-budget-reply]]
 - 2026-04-20 — On Leadership Team weekly meeting distribution. → [[sources/2026-04-20-leadership-team-weekly-discussion]]
 

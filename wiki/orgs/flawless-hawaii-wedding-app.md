@@ -4,8 +4,8 @@ title: "Flawless Hawaii Wedding App"
 aliases: ["Flawless Wedding App", "Flawless Hawaii"]
 tags: [client, active, mobile-app, web-app, wedding-tech]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 2
+updated: 2026-05-05
+source_count: 3
 ---
 
 # Flawless Hawaii Wedding App
@@ -13,7 +13,7 @@ source_count: 2
 **Type:** Client (active, healthy).
 **Domain:** Wedding-tech — "Connecting Brides directly to Vendors with Hawai'i First Vendor App."
 **URL:** https://flawlesshawaiiweddingapp.com/
-**Status:** Active development; Iteration 7.1 just shipped (2026-04-20) with strong customer satisfaction. Talks underway about expanding the dev team.
+**Status:** Active development; Iteration 7.1 shipped cleanly, and the team now appears to be planning later-iteration work with mobile blockers and web `2.0` sequencing pressure. Talks are still underway about expanding the dev team.
 
 ## Overview
 
@@ -37,6 +37,7 @@ The 2026-04-18 escalation about "developer cost info" is **not** about the exist
 - 2026-04-19 — Ressa sent original Iteration 7.1 release package for approval.
 - 2026-04-20 — Shannon approved release ("Approved. Amazing!"). Ressa deployed iOS/Android via OTA + web to production. Smoke-test builds: iOS 210, Android 199.
 - 2026-04-21 — Smoke testing wraps up (per `raw/INDEX.md`).
+- 2026-05-04 — Ad-hoc planning summary likely tied to Flawless indicates iteration 7.3 planning, affiliate-feature continuation, RevenueCat blockers, and DNS cutover planning. → [[sources/2026-05-05-summary-ad-hoc-meeting]]
 
 ## Related
 

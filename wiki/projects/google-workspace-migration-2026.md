@@ -8,8 +8,8 @@ tags: [platform-migration, google-workspace, identity-cleanup, infrastructure, d
 started: 2025-09-16
 target: 2026-05-08
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 22
+updated: 2026-05-05
+source_count: 23
 verified_sources:
   - raw/inbox/2026-04-24-google-workspace-alert-domain-export.md
   - raw/inbox/2026-04-24-google-archive-data-requested.md
@@ -74,7 +74,7 @@ Ramon's response unfolded over 24 hours on 2026-04-24:
 
 ## Status now
 
-The May 8 cancellation threat is resolved (plan upgraded). Cleanup substantially complete. **One critical deadline remains:** the Takeout archive must be downloaded by **2026-05-02 (Sat)** or the export expires and must be regenerated. Two of the seven originally-attempted transfers (Grace, Teofilo) are not visible as deletion-success in the indexed corpus — verify state in admin console; they may have been intentionally retained.
+The May 8 cancellation threat is resolved (plan upgraded). Cleanup substantially complete. The newly indexed `2026-04-26` completion notice confirms the domain export `ramon_jairosoft_gmail_export` finished successfully and remained available for 30 days. The main open operational question is no longer whether export completed, but whether Ramon accessed and retained the resulting archive(s) in time. Two of the seven originally-attempted transfers (Grace, Teofilo) are not visible as deletion-success in the indexed corpus — verify state in admin console; they may have been intentionally retained.
 
 ## Goals / scope
 
@@ -92,7 +92,7 @@ The May 8 cancellation threat is resolved (plan upgraded). Cleanup substantially
 
 - [ ] **CRITICAL — Ramon: download Takeout archive by 2026-05-02** (Sat). 31 products, single download window. → `raw/inbox/2026-04-25-google-takeout-data-ready.md`
 - [ ] Verify in admin console that Grace + Teofilo accounts remain active (failed transfers Apr 24; no deletion notice Apr 25 — strong evidence of retention but worth confirming).
-- [ ] Confirm domain data export ("ramon_jairosoft_gmail_export") completed; Google said 72 hours typical / up to 9 days. Started 2026-04-24; expected by ~2026-04-27 to 2026-05-03.
+- [ ] Confirm the completed domain data export ("ramon_jairosoft_gmail_export") was accessed / retained within Google's 30-day availability window.
 - [ ] Accept the new Google Product Agreement for Business Standard (the Welcome email noted this as a required follow-up).
 
 ## Timeline
@@ -107,6 +107,7 @@ The May 8 cancellation threat is resolved (plan upgraded). Cleanup substantially
 - **2026-04-24 15:19 → 16:32 PT** — Ramon attempts to delete + transfer 7 user accounts. **All 7 transfers fail** for Drive/Docs (HR + Ramon also failed Calendar). Per-user attempt times: Jairo 15:19, Admin 15:37, Aldred 15:38, Ramon 15:39, Grace 16:04, Teofilo 16:27, HR 16:32. Each user marked "currently suspended" after the failed delete.
 - **2026-04-24 15:35 PT** — Plan upgraded: Business Starter → **Business Standard**. Two welcome emails received (one duplicate). Google Product Agreement still pending acceptance.
 - **2026-04-25 04:11 UTC** — Google Takeout archive ready; **31 products**; **download by 2026-05-02**. Archive ID `337b0120-7dfc-4f13-8529-d45a14c1059f`.
+- **2026-04-26 22:19 UTC** — Google confirms `ramon_jairosoft_gmail_export` is complete and accessible via Cloud Storage for 30 days. → [[sources/2026-04-26-google-workspace-data-export-complete]]
 - **2026-04-25 12:06 → 12:10 PT** — Deletions succeed (5 of 7 attempted): Admin 12:06, Jairo 12:07, Ramon Aseniero (`ramon.aseniero@`) 12:07, HR 12:09, Aldred 12:10. All deletions credited to "Ramon Jr (ramon@jairosoft.com)". Grace + Teofilo notably absent — confirmed retained.
 - **(2026-05-02)** — Takeout download deadline.
 - **(2026-05-08)** — Original cancellation deadline (now neutralized by plan upgrade).
@@ -126,6 +127,10 @@ The May 8 cancellation threat is resolved (plan upgraded). Cleanup substantially
 ## Sources
 
 This project subsumes 22 raw inbox files (see `covered_sources` in frontmatter). Per SCHEMA.md email-specific conventions, individual `wiki/sources/` pages are not created for workspace lifecycle events — they are summarized into this project page.
+
+Additional directly tracked source:
+
+- [[sources/2026-04-26-google-workspace-data-export-complete]]
 
 ## Open questions
 

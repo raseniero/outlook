@@ -4,15 +4,15 @@ title: "GoHealth Urgent Care"
 aliases: ["GoHealth UC", "GoHealth", "gohealthuc.com"]
 tags: [client, active, healthcare, urgent-care]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 5
+updated: 2026-05-05
+source_count: 6
 ---
 
 # GoHealth Urgent Care
 
 **Type:** Client (active)
 **Domain:** Urgent care / healthcare technology
-**Status:** Active engagement — Voice AI vendor evaluation in progress
+**Status:** Active engagement — Voice AI vendor evaluation in progress, while the engineering-delivery side is showing renewed process-health strain.
 
 ## Overview
 
@@ -21,7 +21,7 @@ GoHealth UC is an active Jairosoft client with engagement on **two tracks**:
 1. **Voice AI initiative (sales / vendor evaluation)** — Jairosoft submitted a Vendor Response Sheet on 2026-04-24 and is awaiting feedback by ~2026-05-01. Counterparts: Eli Hersher (product), Derek Norton (touch-bases).
 2. **Engineering delivery (active development)** — Karl Caumban runs a **9-person Jairosoft dev team** assigned to GoHealth, with weekly review/improvement sessions established 2026-04-20. Team members: Adam Bernaldez, Jove Moralde, Rommel Senillo, Bon Cueva, Bomar Sinday, Aldred Donayre, Jovanne Vicentino, Calvin John Dalino, Daryl Estrada.
 
-The dev team scope (presumably for an existing GoHealth engagement separate from the Voice AI bid) was not visible from earlier batches and warrants its own project page once more sources are ingested.
+The dev team scope (presumably for an existing GoHealth engagement separate from the Voice AI bid) is now clearly represented in its own project page, and the Apr 29 weekly-review summary adds a sharper warning about unresolved production issues plus QA / PM process concerns.
 
 ## Key people
 
@@ -48,6 +48,7 @@ The dev team scope (presumably for an existing GoHealth engagement separate from
 - 2026-04-22 — Eli grants Ramon extension to Apr 24 EOD for Vendor Response Sheet.
 - 2026-04-22 — Derek Norton accepts second touch-base with Jairosoft.
 - 2026-04-24 — Ramon submits completed Vendor Response Sheet; Eli confirms receipt; next steps promised by EOW+1.
+- 2026-04-29 — TeamsMaestro weekly-review summary flags unresolved production issues and stronger QA / PM process concerns on the engineering-delivery side. → [[sources/2026-04-29-gohealth-weekly-review-summary]]
 
 ## Related
 

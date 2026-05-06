@@ -4,8 +4,8 @@ title: "Jairosoft LLC"
 aliases: ["Jairosoft", "jairosoft.com"]
 tags: [internal, employer, hub]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 113
+updated: 2026-05-05
+source_count: 124
 ---
 
 # Jairosoft LLC
@@ -98,6 +98,7 @@ Jairosoft is the operating company. All internal staff have `@jairosoft.com` ema
 
 ### Facilities / capex
 - [[projects/jairosoft-solar-facility-evaluation-2026]] — **active** — 5 vendor proposals received 2026-04-25 (Hybrid 24/36KW + Grid Tie 20/30/36KW); facility likely PH office (Marikriss + Grace involvement).
+- [[projects/jairosoft-facility-hvac-evaluation-2026]] — **active** — AIRPRO AC quotation and layout forwarded after site inspection for JAIROSOFT INC.
 
 ### Hiring
 - [[projects/hishaam-employment-opportunity]] — Active candidate (Hishaam Namooya, Sitecore MVP, Mauritius); Apr 27 call scheduled.

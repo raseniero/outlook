@@ -8,19 +8,19 @@ tags: [hiring, talent, sitecore, mauritius, in-discussion]
 started: "(pre-corpus — at least early April 2026)"
 target: "(no explicit deadline)"
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 2
+updated: 2026-05-05
+source_count: 3
 ---
 
 # Hishaam Namooya — Employment Opportunity
 
-**Status:** In active discussion. Hishaam is following up on offer terms; next call **Monday 2026-04-27**.
+**Status:** In active discussion. Hishaam was actively following up on compensation and scheduling; next call **Monday 2026-04-27**.
 **Candidate:** [[people/hishaam-namooya]] — Sitecore Technology MVP, Mauritius-based, AI development background.
 **Owner (Jairosoft):** [[people/ramon-aseniero]]
 
 ## Overview
 
-Ramon and Hishaam have an active hiring conversation that has been impeded by Ramon's travel-related illness (PH trip in early-mid April). Hishaam pursued multiple proactive check-ins between Apr 5 and Apr 22, demonstrating patience, professionalism, and timezone flexibility.
+Ramon and Hishaam have an active hiring conversation that was impeded by Ramon's travel-related illness (PH trip in early-mid April). Hishaam pursued multiple proactive check-ins between Apr 5 and Apr 22, including a concrete follow-up on a planned Apr 25 call, demonstrating patience, professionalism, and timezone flexibility.
 
 The candidate's profile (Sitecore Technology MVP) aligns directly with Jairosoft's brand positioning ("Your Trusted Sitecore Partner with Agile, SAFe, and PMP Expertise"). His AI development progress is also part of the discussion topic — fits the Jairosoft AI-vendor-enablement strategy.
 
@@ -34,7 +34,7 @@ Next call scheduled for **2026-04-27 (Monday)** to discuss:
 ## Goals / scope
 
 - Convert the hiring conversation to either an offer or a clear no-go.
-- Resolve compensation expectations (sub-thread referenced as "Summary Compensation Expectations").
+- Resolve compensation expectations (explicitly surfaced in the Apr 20 "Summary Compensation Expectations" follow-up).
 
 ## Open items
 
@@ -45,13 +45,13 @@ Next call scheduled for **2026-04-27 (Monday)** to discuss:
 - *(pre-2026-04-05)* — Discussions established; "Summary Compensation Expectations" thread initiated.
 - 2026-04-10 — Hishaam checked in (timezone uncertainty, missed meetings).
 - 2026-04-13 — Hishaam offered help; Ramon explained PH travel + illness.
-- 2026-04-20 — Hishaam followed up about scheduled Apr 25 call. → `raw/inbox/2026-04-20-hishaam-compensation-expectations.md`
+- 2026-04-20 — Hishaam followed up about the scheduled Apr 25 call and asked for visibility on reconnecting; reiterated Mauritius/PHT flexibility. → [[sources/2026-04-20-hishaam-compensation-expectations]]
 - 2026-04-22 — Hishaam proposed Apr 27 Monday meeting (3 topics). → [[sources/2026-04-22-hishaam-meeting-setup-april27]]
 
 ## Sources
 
+- [[sources/2026-04-20-hishaam-compensation-expectations]]
 - [[sources/2026-04-22-hishaam-meeting-setup-april27]]
-- raw/inbox/2026-04-20-hishaam-compensation-expectations.md *(per-source page exists from earlier batch in raw, but not yet covered as wiki/sources page — file the wiki version on next 2026-04-20 audit)*
 
 ## Related
 

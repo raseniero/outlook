@@ -316,3 +316,108 @@ Append-only chronological log. Newest at the bottom — `tail -n 30 log.md` show
   - `wiki/index.md` — added Analyses subsection under Topics/Threads/Analyses; bumped analyses count 0 → 3.
 - **Method:** synthesized from corpus state at end of batch 12 (no new raw reads). Each analysis is a derived view that the per-page wiki structure didn't naturally hold.
 - **Why these three first:** productivity-suite duplication is the most actionable ($$ implication, fixed deadline); AI-vendor enablement is the most pattern-revealing (compressed-week posture wasn't visible from any single source); deadlines page is the most operationally useful day-to-day.
+
+## [2026-05-05] ingest | 2026-04-20-hishaam-compensation-expectations
+
+- **Context:** post-restore audit of `raw/inbox/` against `wiki/` found one real ingest gap while the rest of the corpus matched prior wiki coverage or approved batched/subsumed handling.
+- **Per-source page created:** `wiki/sources/2026-04-20-hishaam-compensation-expectations.md`
+- **Pages updated:** `wiki/projects/hishaam-employment-opportunity.md`, `wiki/people/hishaam-namooya.md`, `wiki/people/ramon-aseniero.md`, `wiki/index.md`
+- **Finding:** the Apr 20 Hishaam email confirms the hiring conversation was already date-bound around a planned **2026-04-25** call and that compensation expectations were explicitly active before the Apr 22 rescheduling email.
+
+## [2026-05-05] ingest-batch | 2026-05-05 batch 1 — operational / opportunity signals
+
+- **Sources read (5):** street-signage-design-proposal, adam-clear1-travel-expenses, grace-jairosoft-opex-may10-release, hiepro-p26002329-answers, summary-autoallies-autodefense-sync.
+- **Per-source pages created (5):** all 5.
+- **Pages updated (6):**
+  - `people/adam-bernaldez.md` — now tied to a CLEAR1 travel-expense reimbursement thread.
+  - `people/mary-grace-garcia.md` — added signage approval request + May 10 OpEx activity.
+  - `projects/autoallies-autodefense.md` — status now reflects v2 native-app path, 1,500+ user migration plan, duplicate-app store risk, and ownership cleanup.
+  - `orgs/hiepro.md` — added P26002329 as a live Q&A-stage opportunity.
+  - `people/ramon-aseniero.md` — added five May 5 operational / procurement visibility items and two new open commitments.
+  - `wiki/index.md` — updated page totals and backlog framing to reflect a partial 2026-05-05 ingest in progress.
+- **Major findings:**
+  1. **AutoDefense is more concrete than earlier pages showed** — there is now a visible v2 native-app strategy, migration plan, and platform-ownership cleanup.
+  2. **Grace is driving a new operational cluster** around signage approval plus the May 10 OpEx cycle.
+  3. **HIePRO P26002329** surfaced only through a Q&A notice, meaning Jairosoft may have an opportunity not yet represented by the original solicitation notice in raw.
+
+## [2026-05-05] ingest-batch | 2026-05-05 batch 2 — planning / retention / support signals
+
+- **Sources read (5):** summary-ad-hoc-meeting, teams-recording-expired-deleted, teofilo-pi07-feedback-survey, karl-caumban-sent-a-message-chat, summary-support-team-sync.
+- **Per-source pages created (5):** all 5.
+- **Pages updated (4):**
+  - `people/teofilo-limpag.md` — added PI-07 feedback-survey request.
+  - `projects/flawless-hawaii-wedding-app.md` — status now reflects likely iteration 7.3 planning, native-mobile access blockers, RevenueCat delay, and web 2.0 sequencing pressure.
+  - `orgs/flawless-hawaii-wedding-app.md` — broadened from pure 7.1-release state to active post-release iteration planning.
+  - `wiki/index.md` — updated totals and backlog framing for 10/24 of the May 5 raw batch ingested.
+- **Major findings:**
+  1. **Flawless is past the simple “7.1 shipped cleanly” phase** — the product now appears to be in iteration 7.3 planning with real mobile/platform blockers.
+  2. **Support-team operations are recurring, not ad hoc** — signage and installation work is showing up both as direct approval mail and in support-team planning summaries.
+  3. **Most remaining May 5 mail is lower-signal notification traffic**, so the ingest queue is becoming more about inbox memory coverage than major project-state changes.
+
+## [2026-05-05] ingest-batch | cross-date batch 3 — migration, security, role-scope, LPM
+
+- **Sources read (5):** google-workspace-data-export-complete, jairo-program-alignment-lpm-review (Apr 27), jairo-program-alignment-lpm-review (Apr 28), azure-devops-personal-access-token-added, adam-h1b-actual-project-role.
+- **Per-source pages created (5):** all 5.
+- **Pages updated (7):**
+  - `projects/google-workspace-migration-2026.md` — now explicitly records that the domain export completed and reframes the remaining question as archive retention rather than export completion.
+  - `people/adam-bernaldez.md` — now shows both the CLEAR1 reimbursement thread and the GoHealth lead/senior-developer scope statement.
+  - `projects/gohealth-jairosoft-engineering-engagement.md` — sharpened Adam's real delivery role and integration ownership.
+  - `people/karl-caumban.md` — added LPM/FinOps/QA-automation responsibilities from Apr 27-28 summaries.
+  - `people/bomar-sinday.md` — now tied to AI-in-QA integration work.
+  - `people/ramon-aseniero.md` — added export completion, PAT security, LPM, and Adam role-scope visibility.
+  - `wiki/index.md` — updated totals and represented-source counts.
+- **Major findings:**
+  1. **The Google Workspace export is confirmed complete** — one long-standing migration uncertainty is now closed.
+  2. **Adam's actual GoHealth role is materially more senior than his formal title** — useful for staffing, immigration, and org-design conversations.
+  3. **Azure DevOps PAT activity expanded the security surface beyond GitHub/OpenAI** — this now needs verification alongside the other token/account alerts.
+
+## [2026-05-05] ingest-batch | cross-date batch 4 — procurement, facilities, payment, process-health
+
+- **Sources read (6):** general-dynamics-supplier-registration-update, hiepro-p26001887-answers, openai-macos-security-update-2, gohealth-weekly-review-summary, airpro-ac-quotation-jairosoft-inc, usbank-zelle-payment-deposited-adam.
+- **Per-source pages created (6):** all 6.
+- **New entity / project pages created (3):**
+  - `orgs/general-dynamics`
+  - `orgs/airpro`
+  - `projects/jairosoft-facility-hvac-evaluation-2026`
+- **Pages updated (8):**
+  - `orgs/openai` — now reflects the repeated Apr 27 reminder, not just the initial Apr 21 notice.
+  - `orgs/hiepro` — now includes P26001887 as another Q&A-stage opportunity.
+  - `orgs/gohealth-uc` — now flags process-health strain on the engineering side.
+  - `projects/gohealth-jairosoft-engineering-engagement` — now records the Apr 29 weekly-review signal about unresolved production issues and QA / PM breakdown risk.
+  - `people/adam-bernaldez` — now includes the May 2 Zelle deposit confirmation.
+  - `people/mark-colina` — now includes the AIRPRO facilities-quotation thread.
+  - `people/ramon-aseniero` — now includes the supplier-refresh, P26001887, repeated OpenAI reminder, AIRPRO, GoHealth review, and Adam payment visibility.
+  - `orgs/jairosoft` / `wiki/index.md` — now catalog the new HVAC facilities thread and updated represented-source totals.
+- **Major findings:**
+  1. **A second facilities-capex track is now visible** beyond solar: AIRPRO is in a real HVAC quotation stage after site inspection for JAIROSOFT INC.
+  2. **GoHealth process-health concerns intensified by Apr 29** — the weekly-review summary is stronger than the earlier alignment notes and should be treated as a real warning signal, even though it is AI-generated.
+  3. **General Dynamics supplier maintenance** implies Jairosoft is already inside at least one defense-enterprise supplier registry, which may be worth preserving.
+  4. **P26001887** adds another HiePro bid/no-bid decision to the DOTAX-gated public-sector backlog.
+
+## [2026-05-05] lint | full wiki after cross-date batch 4
+
+- **Orphans:** `analyses/critical-deadlines-apr27-aug1`, `orgs/duet-display`, `projects/shannon-nofo-app-development`, and source pages `2026-04-20-figma-subscription-receipt-apr19`, `2026-04-20-github-password-changed`, `2026-04-24-google-cloud-next-day2-recap`, `2026-04-24-google-keyword-cloud-next-26-highlights`, `2026-04-24-hbr-driving-lyft-into-future`, `2026-05-05-karl-caumban-sent-a-message-chat`, `2026-05-05-summary-support-team-sync`, `2026-05-05-teams-recording-expired-deleted`.
+- **Broken link:** `people/luke-colina` still points to non-existent `[[people/mark-colina-solar]]`; should point to `[[people/mark-colina]]` or drop the alias-style link.
+- **Index drift:** uncataloged pages remain under `orgs/` (`delta-capital-group`, `opengov-procurement`, `tricentis`), `people/` (`adam-bernaldez`, `aldred-donayre`, `bomar-sinday`, `bon-cueva`, `calvin-john-dalino`, `daryl-estrada`, `earl-carino`, `jerlyn-ates`, `jovanne-vicentino`, `jove-moralde`, `rommel-senillo`, `sholom-kraus`), and `projects/` (`joe-mrm-proposal-v2`, `portfolio-health-dashboard`).
+- **Thin pages:** repeated stubs remain across internal/external people (`abdul-samad`, `ike-yana`, `mary-secusana`, `millad-ramy`, `sholom-kraus`) and a few thin org/project/source pages (`rsrit`, `shannon-nofo-app-development`, several low-signal source pages).
+- **Stale claims / overdue framing:** `projects/google-workspace-migration-2026`, `projects/final-dev-scope-aloha-roadway`, and the `wiki/index.md` open-action snapshot still frame several pre-2026-05-05 deadlines as if they are upcoming, rather than overdue or unresolved.
+- **Remaining raw-only backlog:** 22 inbox files are still intentionally raw-only or not yet ingested, dominated by 2026-05-05 notifications plus the three 2026-04-26 Goldenboy solar forwards.
+
+## [2026-05-05] ingest-batch | cross-date batch 5 — solar vendor corroboration, OneDrive retention, OpenAI API billing
+
+- **Sources read (5):** mark-colina-24kw-hybrid-forward, mark-colina-hybrid-36kw-forward, mark-colina-grid-tie-package-forward, onedrive-large-number-files-deleted, openai-api-account-funded.
+- **Per-source pages created (5):** all 5.
+- **New entity pages created (1):**
+  - `orgs/goldenboy-water-systems`
+- **Pages updated (8):**
+  - `projects/jairosoft-solar-facility-evaluation-2026` — vendor gap closed; Goldenboy Water Systems now named; 36KW proposal noted as revised.
+  - `orgs/openai` — now reflects API billing activity in addition to security/update mail.
+  - `orgs/microsoft-365` — now includes the OneDrive mass-deletion warning as a storage/retention signal.
+  - `people/mark-colina`, `people/mary-grace-garcia`, `people/marikriss-aseniero` — now reflect the Outlook-captured solar-forward duplicates.
+  - `people/ramon-aseniero` — now includes OneDrive deletion warning, OpenAI funding, and solar-vendor clarification.
+  - `orgs/jairosoft` / `wiki/index.md` — counts and facilities-vendor framing updated.
+- **Major findings:**
+  1. **The solar-vendor gap is closed** — the existing Jairosoft solar proposal batch is from **Goldenboy Water Systems**.
+  2. **The 36KW hybrid proposal was revised** after a panel-to-inverter adjustment, which is a useful procurement nuance not visible in the earlier IMAP-captured source.
+  3. **Jairosoft is funding OpenAI API usage directly**, not only using desktop apps and account features.
+  4. **A large OneDrive deletion event occurred on or before 2026-04-26**; recovery remains possible for 93 days from Microsoft's warning.

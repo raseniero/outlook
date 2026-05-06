@@ -219,3 +219,146 @@ Fetched on 2026-04-26T01:40 UTC.
 ## 📰 Newsletters / Announcements
 
 - [anthropic-complete-signup.md](./2026-04-20-anthropic-complete-signup.md) — Anthropic Education: prompt to complete course signup (no body)
+
+---
+
+# Inbox Snapshot 2026-05-05 (19 fetched messages + 5 additional notifications)
+
+Fetched from Outlook on 2026-05-05. Saved with Outlook message IDs because IMAP tooling was not available in this environment.
+
+## 🚨 Action Required
+
+- [street-signage-design-proposal.md](./inbox/2026-05-05-street-signage-design-proposal.md) — Grace requested approval on the 6x10 ft street-signage design
+
+## 👥 Internal / Work Threads
+
+- [karl-caumban-sent-a-message-chat.md](./inbox/2026-05-05-karl-caumban-sent-a-message-chat.md) — Karl sent a Teams sync-update notification
+- [summary-ad-hoc-meeting.md](./inbox/2026-05-05-summary-ad-hoc-meeting.md) — TeamsMaestro notes for an ad-hoc sprint-planning meeting
+- [adam-clear1-travel-expenses.md](./inbox/2026-05-05-adam-clear1-travel-expenses.md) — Adam submitted CLEAR1 Atlanta travel reimbursement details
+- [karl-caumban-sent-a-message-aa.md](./inbox/2026-05-05-karl-caumban-sent-a-message-aa.md) — Karl sent an Auto Allies escalation notification
+- [teams-1-reply-1-mention.md](./inbox/2026-05-05-teams-1-reply-1-mention.md) — Teams activity digest: 1 reply, 1 mention
+- [grace-jairosoft-opex-may10-release.md](./inbox/2026-05-05-grace-jairosoft-opex-may10-release.md) — Grace sent OpEx summary for the May 10 release
+- [summary-jit-product-art-sync-demo.md](./inbox/2026-05-05-summary-jit-product-art-sync-demo.md) — JIT Product ART Sync and demo notes
+- [summary-unicorn-daily-team-sync.md](./inbox/2026-05-05-summary-unicorn-daily-team-sync.md) — Unicorn daily team sync summary
+- [carol-replied-shared-services-team.md](./inbox/2026-05-05-carol-replied-shared-services-team.md) — Carol replied in Shared Services Team
+- [summary-shared-services-devops-it-uiux.md](./inbox/2026-05-05-summary-shared-services-devops-it-uiux.md) — Shared Services DevOps/IT/UIUX daily sync notes
+- [teams-1-reply-1-post.md](./inbox/2026-05-05-teams-1-reply-1-post.md) — Teams activity digest: 1 reply, 1 post
+- [teofilo-pi07-feedback-survey.md](./inbox/2026-05-05-teofilo-pi07-feedback-survey.md) — Teofilo requested PI-07 survey feedback
+- [grace-luke-invoice-apr16-30-received.md](./inbox/2026-05-05-grace-luke-invoice-apr16-30-received.md) — Grace acknowledged Luke’s invoice
+- [grace-luke-timesheet-apr16-30-approved.md](./inbox/2026-05-05-grace-luke-timesheet-apr16-30-approved.md) — Grace approved Luke’s timesheet
+- [summary-jit-ops-daily-team-sync.md](./inbox/2026-05-05-summary-jit-ops-daily-team-sync.md) — JIT Ops daily sync notes
+- [autoallies-autodefense-program-sync.md](./inbox/2026-05-05-autoallies-autodefense-program-sync.md) — Auto Allies Product Team sync invite
+- [summary-autoallies-autodefense-sync.md](./inbox/2026-05-05-summary-autoallies-autodefense-sync.md) — AutoDefense program sync summary
+- [summary-support-team-sync.md](./inbox/2026-05-05-summary-support-team-sync.md) — Support Team Sync notes
+
+## 💼 Business Opportunities
+
+- [samgov-saved-search-sought-notices.md](./inbox/2026-05-05-samgov-saved-search-sought-notices.md) — SAM.gov saved-search updates
+- [hiepro-p26002329-answers.md](./inbox/2026-05-05-hiepro-p26002329-answers.md) — HIePRO answers posted for solicitation P26002329
+
+## 🤖 Workspace Lifecycle Events
+
+---
+
+# Inbox Snapshot 2026-05-05 — late-day Outlook delta (10 messages)
+
+Second fetch pass for local date `2026-05-05`, capturing additional late-day Outlook mail not present in the earlier snapshot.
+
+## 👥 Internal / Work Threads
+
+- [luzmibel-smoke-testing-iteration72.md](./inbox/2026-05-05-luzmibel-smoke-testing-iteration72.md) — Luzmibel said smoke testing is proceeding for Iteration 7.2
+- [carol-iteration72-release-update.md](./inbox/2026-05-05-carol-iteration72-release-update.md) — Carol sent Iteration 7.2 production-release status
+- [luzmibel-invoice-apr16-30.md](./inbox/2026-05-05-luzmibel-invoice-apr16-30.md) — Luzmibel submitted invoice for Apr 16-30 services
+- [summary-unicorn-daily-team-sync-2.md](./inbox/2026-05-05-summary-unicorn-daily-team-sync-2.md) — TeamsMaestro notes for another Unicorn daily sync message in the same local-day window
+- [colinahealth-architecture-discussion.md](./inbox/2026-05-05-colinahealth-architecture-discussion.md) — Teams invite for ColinaHealth architecture discussion
+- [jerlyn-approved-timesheet-apr16-30.md](./inbox/2026-05-05-jerlyn-approved-timesheet-apr16-30.md) — Jerlyn approved the Apr 16-30 timesheet request
+
+## 💼 Business Opportunities
+
+- [mybidmatch-may5.md](./inbox/2026-05-05-mybidmatch-may5.md) — Hawaii APEX Accelerator reported 8 new bid-match articles
+
+## 📰 Newsletters / Announcements
+
+- [bubble-product-newsletter-may26.md](./inbox/2026-05-05-bubble-product-newsletter-may26.md) — Bubble product newsletter for May 2026
+- [gdg-developerweek-open-passes.md](./inbox/2026-05-05-gdg-developerweek-open-passes.md) — GDG Capital Region event announcement
+- [security-bank-digibanker-welcome.md](./inbox/2026-05-05-security-bank-digibanker-welcome.md) — Security Bank DigiBanker setup confirmation
+
+- [teams-recording-expired-deleted.md](./inbox/2026-05-05-teams-recording-expired-deleted.md) — SharePoint says a GoHealth Teams recording expired and was deleted
+
+## 📰 Newsletters / Announcements
+
+- [linkedin-learning-spotlight-energy.md](./inbox/2026-05-05-linkedin-learning-spotlight-energy.md) — LinkedIn learning-content digest
+- [linkedin-global-solutions-architect-salary-trends.md](./inbox/2026-05-05-linkedin-global-solutions-architect-salary-trends.md) — LinkedIn career-insights salary email
+
+---
+
+# Inbox Catch-Up 2026-04-26 -> 2026-05-04 (5 substantive fetched messages)
+
+Fetched from Outlook on 2026-05-05 as a substantive backfill batch.
+
+## 🤖 Workspace Lifecycle Events
+
+- [google-workspace-data-export-complete.md](./inbox/2026-04-26-google-workspace-data-export-complete.md) — Google confirmed the `ramon_jairosoft_gmail_export` domain export completed and is available for 30 days
+
+## 👥 Internal / Work Threads
+
+- [jairo-program-alignment-lpm-review.md](./inbox/2026-04-27-jairo-program-alignment-lpm-review.md) — LPM summary: branch protection purchase, FinOps consolidation, GitHub token/PR follow-up
+- [jairo-program-alignment-lpm-review.md](./inbox/2026-04-28-jairo-program-alignment-lpm-review.md) — LPM summary: QA restructuring, AI-in-QA automation, process refinement
+- [adam-h1b-actual-project-role.md](./inbox/2026-05-04-adam-h1b-actual-project-role.md) — Adam documented H1B title versus actual Lead/Senior Developer scope on GoHealth
+
+## 🔐 Security Notices
+
+- [azure-devops-personal-access-token-added.md](./inbox/2026-05-03-azure-devops-personal-access-token-added.md) — New Azure DevOps PAT `casacolinacom` added with all scopes
+
+---
+
+# Inbox Catch-Up 2026-04-26 (8 additional fetched messages)
+
+Fetched from Outlook on 2026-05-05 as raw-only backfill.
+
+## 👥 Internal / Work Threads
+
+- [ramon-shared-projects-folder.md](./inbox/2026-04-26-ramon-shared-projects-folder.md) — Ramon shared the Projects folder with Grace
+- [mark-colina-grid-tie-package-forward.md](./inbox/2026-04-26-mark-colina-grid-tie-package-forward.md) — Mark forwarded the Grid Tie Package proposal
+- [mark-colina-hybrid-36kw-forward.md](./inbox/2026-04-26-mark-colina-hybrid-36kw-forward.md) — Mark forwarded the revised 36KW hybrid proposal
+- [mark-colina-24kw-hybrid-forward.md](./inbox/2026-04-26-mark-colina-24kw-hybrid-forward.md) — Mark forwarded the 24KW hybrid proposal
+
+## 💼 Business Opportunities
+
+- [samgov-saved-search-sought-notices.md](./inbox/2026-04-26-samgov-saved-search-sought-notices.md) — SAM.gov saved-search updates
+- [general-dynamics-supplier-registration-update.md](./inbox/2026-04-26-general-dynamics-supplier-registration-update.md) — General Dynamics requested annual supplier-registration update
+
+## 💰 Billing
+
+- [openai-api-account-funded.md](./inbox/2026-04-26-openai-api-account-funded.md) — OpenAI API credit balance funded by $10
+
+## 📰 Newsletters / Announcements
+
+- [medium-never-real-programmer.md](./inbox/2026-04-26-medium-never-real-programmer.md) — Medium daily digest with AI/software articles
+
+## 🤖 Workspace Lifecycle Events
+
+- [onedrive-large-number-files-deleted.md](./inbox/2026-04-26-onedrive-large-number-files-deleted.md) — SharePoint warned about a large OneDrive deletion event
+
+---
+
+# Inbox Catch-Up 2026-04-27 -> 2026-05-02 (5 additional fetched messages)
+
+Fetched from Outlook on 2026-05-05 as follow-up backfill.
+
+## 🔐 Security Notices
+
+- [openai-macos-security-update-2.md](./inbox/2026-04-27-openai-macos-security-update-2.md) — OpenAI repeated the May 8 macOS app update requirement
+
+## 👥 Internal / Work Threads
+
+- [gohealth-weekly-review-summary.md](./inbox/2026-04-29-gohealth-weekly-review-summary.md) — GoHealth weekly review summary flagged production issues and testing follow-up
+- [airpro-ac-quotation-jairosoft-inc.md](./inbox/2026-05-01-airpro-ac-quotation-jairosoft-inc.md) — Mark forwarded AIRPRO AC quotation and layout for JAIROSOFT INC.
+
+## 💼 Business Opportunities
+
+- [hiepro-p26001887-answers.md](./inbox/2026-04-27-hiepro-p26001887-answers.md) — HIePRO answers posted for solicitation P26001887
+
+## 💰 Billing
+
+- [usbank-zelle-payment-deposited-adam.md](./inbox/2026-05-02-usbank-zelle-payment-deposited-adam.md) — Zelle payment to Adam Vincent Bernaldez deposited

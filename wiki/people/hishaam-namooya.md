@@ -4,8 +4,8 @@ title: "Hishaam Namooya"
 aliases: []
 tags: [external, candidate, mauritius, sitecore-mvp, employment-opportunity]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 2
+updated: 2026-05-05
+source_count: 3
 ---
 
 # Hishaam Namooya
@@ -28,7 +28,7 @@ He's been respectful of Ramon's travel/health situation and proactively flexible
 ## Recent activity
 
 - 2026-04-22 — Proposed Monday **2026-04-27** call to discuss the three topics above. → [[sources/2026-04-22-hishaam-meeting-setup-april27]]
-- 2026-04-20 — Checked in on the previously-scheduled Apr 25 call; flexible to PHT. *(Per `raw/inbox/2026-04-20-hishaam-compensation-expectations.md` — covered by source page.)*
+- 2026-04-20 — Checked in on the previously-scheduled Apr 25 call; asked for visibility on reconnecting and reiterated Mauritius/PHT flexibility. → [[sources/2026-04-20-hishaam-compensation-expectations]]
 - 2026-04-13 — Wished Ramon speedy recovery; offered help.
 - 2026-04-10 — Initial check-in around missed meetings.
 

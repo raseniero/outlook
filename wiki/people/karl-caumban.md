@@ -4,8 +4,8 @@ title: "Karl Jordan P. Caumban"
 aliases: ["Karl Caumban"]
 tags: [internal, jairosoft, agile-project-manager, gohealth-eng-lead, autoallies, partnerships]
 created: 2026-04-26
-updated: 2026-04-26
-source_count: 8
+updated: 2026-05-05
+source_count: 10
 ---
 
 # Karl Jordan P. Caumban
@@ -28,6 +28,8 @@ His emails to internal Jairosoft folks are often no-body (image attachments). Hi
 
 ## Recent activity
 
+- 2026-04-28 — On LPM review summary assigning him QA automation, PM-process refinement, and organizational adaptation work. → [[sources/2026-04-28-jairo-program-alignment-lpm-review]]
+- 2026-04-27 — On LPM review summary tying him to priority-zero execution, FinOps board consolidation, and a nearly `$50` branch-protection purchase. → [[sources/2026-04-27-jairo-program-alignment-lpm-review]]
 - 2026-04-21 — Wrote detailed Apr 21 GoHealth weekly-alignment meeting notes covering Hartford slip, Vercel breach, EMR HL7/R4 decision, patient-app refactor. → [[sources/2026-04-21-weekly-alignment-gohealth-apr21-notes]]
 - 2026-04-21 — Notified GoHealth that Calvin Dalino is extending sick leave. → [[sources/2026-04-21-sick-leave-calvin-dalino-extended]]
 - 2026-04-21 — Thanked Susan Neunaber for positive feedback on weekly alignment format. → [[sources/2026-04-21-weekly-alignment-gohealth-check-in-reply]]
@@ -41,6 +43,7 @@ His emails to internal Jairosoft folks are often no-body (image attachments). Hi
 - [ ] **Karl + Carol — overdue weeks:** send Shannon Nofo developer-cost breakdown. → [[projects/flawless-hawaii-wedding-app]]
 - [ ] **Karl:** progress AutoAllies Branch Protection budget approval. → [[projects/autoallies-branch-protection]]
 - [ ] **Karl:** progress Anthropic Claude Partner Network next steps. → [[orgs/anthropic]]
+- [ ] **Karl:** execute priority-zero actions and keep the consolidated FinOps/LPM process changes moving.
 
 ## Related
 
